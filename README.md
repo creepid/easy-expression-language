@@ -1,0 +1,2 @@
+## Simple expression language on Java
+Demonstration of writing expression language using [interpreter pattern](http://www.tutorialspoint.com/design_pattern/interpreter_pattern.htm) and [Dijkstra's algorithm](https://github.com/creepid/algorithms-research/blob/master/src/main/java/by/creepid/algorithms/basic/bags/DijkstrasSimple.java)
